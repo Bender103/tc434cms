@@ -1,0 +1,9 @@
+TrinityCore 4.3.4 CMS
+
+1. Create a database for the CMS
+2. Set up /configs.php
+3. Import /INSTALL/tc434cms.sql
+4. Locate http://yoursite.com/tools/fill_users.php with your browser for fill users from your TrinityCore AccountDB
+5. Locate http://yoursite.com/ with your browser
+
+At this moment thats all, stay tuned for the admin page and the integrated installation system.
