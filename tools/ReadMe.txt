@@ -1,14 +1,3 @@
-///////////////////////////////////////////////
-Project Title : TrinityCore Blizzard Website
-Project Author : TheAdriann
-///////////////////////////////////////////////
-Credits
-
-TheAdriann - Main Developer
-Garth - HTML Release
-BeLove - Contributer
-///////////////////////////////////////////////
-
 // fillusers.php //
 Add all users from 'account' TrinityCore Database to your 'website' TrinityCore Database.
 
